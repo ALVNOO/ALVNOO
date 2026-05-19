@@ -37,22 +37,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ALVNOO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVNOO&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-alvino-45a845211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alvino-45a845211)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ALVNOO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinooo312@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinooo312@gmail.com)
 
 ---
 
