@@ -22,25 +22,6 @@
 
 ---
 
-## 🚀 Featured Project — B2B Commerce Platform
-
-> **Enterprise B2B e-commerce & order-to-cash platform** — dibangun bersama tim engineer untuk distributor di industri otomotif.
->
-> Platform ini menghubungkan **head office, tim sales & supervisor, dan ratusan toko reseller** dalam satu alur kerja terpadu: dari registrasi toko, katalog & harga, pemesanan, diskon, pemenuhan & pengiriman, sampai pembayaran dan rekonsiliasi piutang.
-
-### 🎯 My Contributions
-
-| Area | What I Built |
-| --- | --- |
-| 💳 **Payment & Billing** | Integrasi payment gateway, checkout & pembayaran cicilan multi-invoice, riwayat pembayaran, status pembayaran parsial, faktur cetak |
-| 🔗 **System Integration** | Sinkronisasi data dua arah dengan sistem ERP perusahaan untuk pesanan, invoice, stok, dan harga |
-| 🏪 **Reseller Portal** | Dashboard toko, monitoring pesanan, katalog + ketersediaan stok, keranjang belanja, unggah order massal, riwayat transaksi |
-| 💰 **Discount Engine** | Mesin perhitungan diskon berlapis per kategori & paket, beserta sistem loyalty points |
-| 📊 **Sales Dashboard** | Dashboard performa sales & supervisor, jaringan toko binaan, kartu ringkas pesanan, ekspor laporan **XLSX** |
-| 📈 **Receivables (AR)** | Kartu tagihan dashboard, rincian piutang, email reminder jatuh tempo, alur pembayaran bertahap |
-| 🔐 **Auth & Access Control** | Login OTP, reset kata sandi via email, *route guard* per zona, pembatasan lingkup akses per peran, session idle timeout |
-| 📝 **Store Registration** | Alur pendaftaran toko perorangan & badan usaha, validasi form, verifikasi email, antrean persetujuan admin |
-
 ### 🧰 Tech Stack of the Project
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
