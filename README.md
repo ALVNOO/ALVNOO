@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Project — B2B Commerce Platform
 
-> **Enterprise B2B e-commerce & order-to-cash platform** — dibangun bersama tim engineer di **Nexta** untuk distributor skala nasional di industri otomotif.
+> **Enterprise B2B e-commerce & order-to-cash platform** — dibangun bersama tim engineer untuk distributor di industri otomotif.
 >
 > Platform ini menghubungkan **head office, tim sales & supervisor, dan ratusan toko reseller** dalam satu alur kerja terpadu: dari registrasi toko, katalog & harga, pemesanan, diskon, pemenuhan & pengiriman, sampai pembayaran dan rekonsiliasi piutang.
 
