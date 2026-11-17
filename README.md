@@ -22,30 +22,6 @@
 
 ---
 
-### 🧰 Tech Stack of the Project
-
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Arsitektur:** monorepo (Bun + Turborepo) · *bounded contexts* dengan boundary check otomatis · RBAC berbasis matriks permission · audit log terpusat · *database migrations* · CI/CD GitHub Actions.
-
-> 💡 **Kenapa project ini penting buat saya sebagai orang data:**
-> membangun sistem *order-to-cash* berarti berurusan langsung dengan **data integrity** — harga, diskon berlapis, dan piutang harus tepat sampai rupiah terakhir. Di sinilah mindset data analyst bertemu software engineering: memastikan setiap angka yang muncul di dashboard benar-benar bisa dipertanggungjawabkan.
-
-> 🔒 *Repository bersifat privat (proyek klien). Detail di atas dibagikan pada level portofolio tanpa data rahasia.*
-
----
-
 ## 🛠️ Tech Stack
 
 **Data & Analytics**
